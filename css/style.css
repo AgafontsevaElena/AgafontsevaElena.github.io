@@ -27,9 +27,9 @@ body {
     .content div.text, .services-text div.services-text-price {
         background-color: rgba(238, 233, 233, 0.7);
     }
-    .header-logo .scissors {
+    /*.header-logo .scissors {
         animation: move 4s linear forwards, rotate 1s linear 4s forwards, move1 4s linear 5s forwards, rotate1 1s linear 9s forwards;
-    }
+    }*/
     .page-galery-margin {
         margin-bottom: 90px;
     }
